@@ -1,18 +1,12 @@
 {
   "name": "Mis pendientes · ChimiApps",
-  "short_name": "Pendientes",
+  "short_name": "Mis pendientes",
   "description": "Tablero personal de pendientes de ChimiApps",
+  "lang": "es-MX",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f6fb",
   "theme_color": "#101a35",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
